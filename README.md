@@ -3,10 +3,11 @@
 Fachhochschule Südwestfalen<br>
 Standort Iserlohn<br>
 Fachbereich Informatik und Naturwissenschaften
+<br>
+<br>
 
 
-
-##Ausarbeitung
+<b>Ausarbeitung</b>
 
 
 Anwendung „4 Gewinnt“ als 
